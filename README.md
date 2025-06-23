@@ -1,4 +1,7 @@
 # Course Reflection
+
+This repository contains my final project's code and a state machine diagram that gives a high-level overview of functionality.
+
 Summarize the project and what problem it was solving.
 -
 This project was about building a state machine to represent low-level functionality of a thermostat. Using a Raspberry Pi 4 (RPi 4), peripheral equipment, and a Python script, the system sensed the air temperature and, depending on its current state, activated the heating or cooling mode until the air temperature reached the predetermined set point. 
